@@ -1,0 +1,12 @@
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.Aplication\bin\Debug\net7.0\UsuariosApp.Aplication.deps.json
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.Aplication\bin\Debug\net7.0\UsuariosApp.Aplication.dll
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.Aplication\bin\Debug\net7.0\UsuariosApp.Aplication.pdb
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.csproj.AssemblyReference.cache
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.AssemblyInfoInputs.cache
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.AssemblyInfo.cs
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.csproj.CoreCompileInputs.cache
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.dll
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.Aplication\obj\Debug\net7.0\refint\UsuariosApp.Aplication.dll
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.Aplication\obj\Debug\net7.0\UsuariosApp.Aplication.pdb
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.Aplication\obj\Debug\net7.0\ref\UsuariosApp.Aplication.dll

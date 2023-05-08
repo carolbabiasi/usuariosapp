@@ -33,3 +33,5 @@ C:\Projetos\Coti\UsuariosApp\UsuariosApp.API\obj\Debug\net7.0\UsuariosApp.API.ge
 C:\Projetos\Coti\UsuariosApp\UsuariosApp.API\obj\Debug\net7.0\ref\UsuariosApp.API.dll
 C:\Projetos\Coti\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.API.xml
 C:\Projetos\Coti\UsuariosApp\UsuariosApp.API\obj\Debug\net7.0\UsuariosApp.API.xml
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Aplication.dll
+C:\Projetos\Coti\UsuariosApp\UsuariosApp.API\bin\Debug\net7.0\UsuariosApp.Aplication.pdb
